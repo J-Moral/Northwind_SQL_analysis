@@ -1,43 +1,98 @@
-# Instagram Ad-hoc Analysis
+# Northwind SQL Analysis
 
-You are a data analyst at an NYC-based wholesale food supplier called Osiris-Foods. As part of your companies mission to make more data-driven decisions, you are tasked with generating an ad-hoc report on your companies database. You will report on descriptive statistics using SQL and generate respective visualizations using pandas to provide your company an overview of its' past performance.
+## Overview
 
-For this project, you will analyze an ERD diagram to formulate DML SQL queries within a Jupyter notebook, and provide a write-up of your findings. 
+This project presents an ad-hoc analysis of the Northwind database, a well-known sample dataset that simulates a fictional company specializing in international food and beverage distribution. The analysis was conducted using SQL for querying and Python (pandas and matplotlib) for visualizations and interpretation.
 
-Keep in mind that your write-up should include pertinent numerical details to back your findings. Any claim that you make must be supported by evidence!
+The goal of this repository is to present findings in a format that is accessible to both technical and non-technical audiences. Business professionals, students, and general readers can explore key performance insights about suppliers, products, orders, and customer patterns through clearly presented visuals and summaries.
 
-## Instructions
+## About the Market.db File
 
-### Market.db
+The Market.db file is a SQLite version of the Northwind database. It contains several relational tables including:
 
-Before beginning your project, we recommend checking out the ERD diagram below:
+- Products: Details on items sold, including name, price, supplier, and category
 
-![ERD Diagram](/images/Northwind_E-R_Diagram.png)  
-*ERD Diagram of Market Database*
+- Suppliers: Information about the companies that provide the products
 
-Use this ERD diagram to formulate how you should form your joins across tables and to find out more about your table's columns.
+- Orders: Records of each customer transaction
 
-If you download the `sqlite3` VSCode extension, you will also be able to open your database within your code editor to view the content and columns of your table.
+- OrderDetails: Line-item level detail for every order placed
 
-Note that you can also test out your SQL queries in `sqlite3` by opening your database in your command line or terminal. Check out the [guide](https://datacarpentry.github.io/sql-socialsci/instructor/08-sqlite-command-line.html) for more information on how to interact with your database in the shell.
+- Customers: Companies or individuals who place orders
 
-### adhoc_report.ipynb
+These tables are interlinked, enabling us to perform detailed and layered queries that uncover meaningful patterns in the data.
 
-Within this Jupyer notebook, you will write Python code and SQL queries to answer 8 ad-hoc questions. Each question will involve you creating an appropriate DML SQL query and observing this output.
+## Understanding the Northwind ER Diagram
 
-After you've verified that your query's output sufficiently answers the question, you will then create a pandas dataframe using this output and finally generate a visualization from this dataframe.
+The Entity-Relationship Diagram (ERD) visually shows how each table in the database relates to others:
 
-Just as in the `weather-analysis` project, we will not directly indicate which visualizations you should make. Instead, we ask that you use your notes and study material to discern appropriate visualizations.
+- Each box in the diagram is a table (e.g., Products, Orders)
 
-Test your queries in the shell, and be sure to *iteratively* build your queries. Especially when we are first learning SQL, we rarely come up with an immediate answer. Start with your basic structure (`SELECT ... FROM ...`) and build up to the correct answer.
+- Each line shows a relationship between two tables
 
-## Submission 
+- Numbers or symbols indicate the nature of the relationship (e.g., one-to-many)
 
-Your first checkpoint for this project will be due by `6/20`. The final due date for this project is `6/27`. 
+Examples:
 
-To begin work on this project, you will download this template code and push it to your GitHub repository. 
+- A single supplier can supply many products, but each product is supplied by just one supplier.
 
-While there are no tests for this project, be sure to remove all errors from your code before submitting and ensure that the outputs you generate answer each question. 
+- A single order can include many products, and each product in an order is listed individually in OrderDetails.
 
-To submit this project, you will submit a link to your completed GitHub repository to Canvas.
+Reading the ERD allows us to write accurate SQL queries and understand how to join different tables to extract insights.
+
+# Analytical Questions:
+1. Which countries have the greatest number of customers? How does this correlate with the number of suppliers by country (i.e. do more customers lead to less or more suppliers)? Which evidence supports your answer?
+2. What is the least popular product by order quantity? How does this correlate with revenue (i.e. do less popular products by quantity lead to less or more revenue)? Which evidence supports your answer?
+3. Which country has the most orders? How does this correlate with the number of customers who do not order (i.e. do countries with more ordering customers have more or less non-ordering customers)? Which evidence supports your answer?
+4. Which supplier has the most orders? Which evidence supports your answer?
+
+## Major Findings
+
+The project answers several business questions using structured SQL queries and visual analysis. Key insights include:
+
+- Top Revenue Supplier: "Aux joyeux ecclésiastiques" generated the highest revenue. "Plutzer Lebensmittelgroßmärkte AG" ranked second, with over 50% of the top supplier’s revenue.
+
+- Product Prices and Quantity Sold: Plutzer offers competitively priced products with strong volume, especially in categories like condiments and beverages. Their pricing strategy helps balance affordability and sales volume.
+
+- Product Count: Plutzer is among the suppliers with the most products offered (five), which supports their broader reach across different customer needs.
+
+- High-Volume Products: Products like "Chartreuse verte" and "Steeleye Stout" recorded the highest order quantities, indicating popular consumer preferences.
+
+- Least Popular Product: Items such as "Laughing Lumberjack Lager" had the lowest order quantities. These products also generated lower revenue, showing that low sales often align with lower financial contribution.
+
+- Revenue vs. Quantity Correlation: Products with higher order volumes generally produced more revenue. However, product price remains a contributing factor.
+
+- roduct Rankings by Quantity: Plutzer’s best-selling products fell within the top 25 to 51 range when ranked across all suppliers, showing strong but not top-tier individual product performance.
+
+- Repeat Order Behavior: Many products had a 100% or higher repeat order rate. For Plutzer, items like "Original Frankfurter grüne Soße" had repeat rates over 100%, reflecting high customer satisfaction.
+
+- Category Distribution: Plutzer’s products span five distinct categories—condiments, beverages, produce, grains/cereals, and meat/poultry—demonstrating diverse offerings.
+
+- Customer Reach: Plutzer serves the highest number of unique customers (32), indicating strong market reach.
+
+- Customer and Supplier Locations: The U.S. and Germany have the largest customer bases. However, countries with more customers don’t necessarily have more suppliers, suggesting a mix of importing and exporting behaviors.
+
+## How to Use This Repository
+
+1. Clone the repository:git clone https://github.com/J-Moral/Northwind_SQL_analysis.git
+
+2. Navigate to the project directory and open adhoc_report.ipynb using Jupyter Notebook.
+
+3. Follow the notebook to explore SQL queries and their resulting insights.
+
+4. Each question is addressed with:
+
+- A clear SQL query
+
+- A pandas DataFrame
+
+- A visual chart (where applicable)
+
+- A written interpretation of the result
+
+No prior programming experience is required to follow the structure of the notebook or the explanations of the results.
+
+## License
+
+This project is intended solely for academic and educational purposes. The Northwind database is a publicly available sample dataset used for learning SQL and database design. The author of this project does not claim ownership of the dataset or its contents.
 

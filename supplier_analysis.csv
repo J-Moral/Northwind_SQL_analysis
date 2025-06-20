@@ -1,0 +1,537 @@
+SupplierName,OrderCount,TotalRevenue,AvgProductPrice,ProductCount_x,ProductName_x,TotalQuantity,GlobalRank,UniqueCustomerCount,CategoryName,ProductCount_y,ProductName_y,UniqueCustomers,TotalOrders,RepeatOrderPercentage
+Aux joyeux ecclésiastiques,15,67764.5,140.75,2,Chartreuse verte,266,14.0,14,Beverages,2,Côte de Blaye,7,7,100.0
+Aux joyeux ecclésiastiques,15,67764.5,140.75,2,Chartreuse verte,266,14.0,14,Beverages,2,Chartreuse verte,8,8,100.0
+Aux joyeux ecclésiastiques,15,67764.5,140.75,2,Côte de Blaye,239,17.0,14,Beverages,2,Côte de Blaye,7,7,100.0
+Aux joyeux ecclésiastiques,15,67764.5,140.75,2,Côte de Blaye,239,17.0,14,Beverages,2,Chartreuse verte,8,8,100.0
+Bigfoot Breweries,16,8252.0,15.33,3,Steeleye Stout,369,3.0,14,Beverages,3,Steeleye Stout,8,9,112.5
+Bigfoot Breweries,16,8252.0,15.33,3,Steeleye Stout,369,3.0,14,Beverages,3,Sasquatch Ale,6,6,100.0
+Bigfoot Breweries,16,8252.0,15.33,3,Steeleye Stout,369,3.0,14,Beverages,3,Laughing Lumberjack Lager,1,1,100.0
+Bigfoot Breweries,16,8252.0,15.33,3,Sasquatch Ale,110,50.0,14,Beverages,3,Steeleye Stout,8,9,112.5
+Bigfoot Breweries,16,8252.0,15.33,3,Sasquatch Ale,110,50.0,14,Beverages,3,Sasquatch Ale,6,6,100.0
+Bigfoot Breweries,16,8252.0,15.33,3,Sasquatch Ale,110,50.0,14,Beverages,3,Laughing Lumberjack Lager,1,1,100.0
+Bigfoot Breweries,16,8252.0,15.33,3,Laughing Lumberjack Lager,5,77.0,14,Beverages,3,Steeleye Stout,8,9,112.5
+Bigfoot Breweries,16,8252.0,15.33,3,Laughing Lumberjack Lager,5,77.0,14,Beverages,3,Sasquatch Ale,6,6,100.0
+Bigfoot Breweries,16,8252.0,15.33,3,Laughing Lumberjack Lager,5,77.0,14,Beverages,3,Laughing Lumberjack Lager,1,1,100.0
+Cooperativa de Quesos 'Las Cabras',11,4848.0,29.5,2,Queso Cabrales,182,27.0,10,Dairy Products,2,Queso Cabrales,8,9,112.5
+Cooperativa de Quesos 'Las Cabras',11,4848.0,29.5,2,Queso Cabrales,182,27.0,10,Dairy Products,2,Queso Manchego La Pastora,2,2,100.0
+Cooperativa de Quesos 'Las Cabras',11,4848.0,29.5,2,Queso Manchego La Pastora,27,71.0,10,Dairy Products,2,Queso Cabrales,8,9,112.5
+Cooperativa de Quesos 'Las Cabras',11,4848.0,29.5,2,Queso Manchego La Pastora,27,71.0,10,Dairy Products,2,Queso Manchego La Pastora,2,2,100.0
+Escargots Nouveaux,4,2053.75,13.25,1,Escargots de Bourgogne,155,41.0,4,Seafood,1,Escargots de Bourgogne,4,4,100.0
+Exotic Liquid,21,10141.0,15.67,3,Chang,341,5.0,17,Beverages,2,Chang,8,11,137.5
+Exotic Liquid,21,10141.0,15.67,3,Chang,341,5.0,17,Beverages,2,Chais,8,8,100.0
+Exotic Liquid,21,10141.0,15.67,3,Chang,341,5.0,17,Beverages,2,Aniseed Syrup,2,2,100.0
+Exotic Liquid,21,10141.0,15.67,3,Chang,341,5.0,17,Condiments,1,Chang,8,11,137.5
+Exotic Liquid,21,10141.0,15.67,3,Chang,341,5.0,17,Condiments,1,Chais,8,8,100.0
+Exotic Liquid,21,10141.0,15.67,3,Chang,341,5.0,17,Condiments,1,Aniseed Syrup,2,2,100.0
+Exotic Liquid,21,10141.0,15.67,3,Chais,159,39.0,17,Beverages,2,Chang,8,11,137.5
+Exotic Liquid,21,10141.0,15.67,3,Chais,159,39.0,17,Beverages,2,Chais,8,8,100.0
+Exotic Liquid,21,10141.0,15.67,3,Chais,159,39.0,17,Beverages,2,Aniseed Syrup,2,2,100.0
+Exotic Liquid,21,10141.0,15.67,3,Chais,159,39.0,17,Condiments,1,Chang,8,11,137.5
+Exotic Liquid,21,10141.0,15.67,3,Chais,159,39.0,17,Condiments,1,Chais,8,8,100.0
+Exotic Liquid,21,10141.0,15.67,3,Chais,159,39.0,17,Condiments,1,Aniseed Syrup,2,2,100.0
+Exotic Liquid,21,10141.0,15.67,3,Aniseed Syrup,80,61.0,17,Beverages,2,Chang,8,11,137.5
+Exotic Liquid,21,10141.0,15.67,3,Aniseed Syrup,80,61.0,17,Beverages,2,Chais,8,8,100.0
+Exotic Liquid,21,10141.0,15.67,3,Aniseed Syrup,80,61.0,17,Beverages,2,Aniseed Syrup,2,2,100.0
+Exotic Liquid,21,10141.0,15.67,3,Aniseed Syrup,80,61.0,17,Condiments,1,Chang,8,11,137.5
+Exotic Liquid,21,10141.0,15.67,3,Aniseed Syrup,80,61.0,17,Condiments,1,Chais,8,8,100.0
+Exotic Liquid,21,10141.0,15.67,3,Aniseed Syrup,80,61.0,17,Condiments,1,Aniseed Syrup,2,2,100.0
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Gorgonzola Telino,458,1.0,22,Dairy Products,3,Mozzarella di Giovanni,12,14,116.66666666666667
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Gorgonzola Telino,458,1.0,22,Dairy Products,3,Mascarpone Fabioli,3,3,100.0
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Gorgonzola Telino,458,1.0,22,Dairy Products,3,Gorgonzola Telino,14,14,100.0
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Mozzarella di Giovanni,270,12.0,22,Dairy Products,3,Mozzarella di Giovanni,12,14,116.66666666666667
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Mozzarella di Giovanni,270,12.0,22,Dairy Products,3,Mascarpone Fabioli,3,3,100.0
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Mozzarella di Giovanni,270,12.0,22,Dairy Products,3,Gorgonzola Telino,14,14,100.0
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Mascarpone Fabioli,52,66.0,22,Dairy Products,3,Mozzarella di Giovanni,12,14,116.66666666666667
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Mascarpone Fabioli,52,66.0,22,Dairy Products,3,Mascarpone Fabioli,3,3,100.0
+Formaggi Fortini s.r.l.,31,16785.0,26.43,3,Mascarpone Fabioli,52,66.0,22,Dairy Products,3,Gorgonzola Telino,14,14,100.0
+Forêts d'érables,15,19043.5,38.9,2,Tarte au sucre,325,9.0,13,Confections,1,Tarte au sucre,12,13,108.33333333333333
+Forêts d'érables,15,19043.5,38.9,2,Tarte au sucre,325,9.0,13,Confections,1,Sirop d'érable,2,2,100.0
+Forêts d'érables,15,19043.5,38.9,2,Tarte au sucre,325,9.0,13,Condiments,1,Tarte au sucre,12,13,108.33333333333333
+Forêts d'érables,15,19043.5,38.9,2,Tarte au sucre,325,9.0,13,Condiments,1,Sirop d'érable,2,2,100.0
+Forêts d'érables,15,19043.5,38.9,2,Sirop d'érable,106,53.0,13,Confections,1,Tarte au sucre,12,13,108.33333333333333
+Forêts d'érables,15,19043.5,38.9,2,Sirop d'érable,106,53.0,13,Confections,1,Sirop d'érable,2,2,100.0
+Forêts d'érables,15,19043.5,38.9,2,Sirop d'érable,106,53.0,13,Condiments,1,Tarte au sucre,12,13,108.33333333333333
+Forêts d'érables,15,19043.5,38.9,2,Sirop d'érable,106,53.0,13,Condiments,1,Sirop d'érable,2,2,100.0
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Produce,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Produce,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Produce,1,Filo Mix,3,3,100.0
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Meat/Poultry,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Meat/Poultry,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Meat/Poultry,1,Filo Mix,3,3,100.0
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Grains/Cereals,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Grains/Cereals,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Perth Pasties,251,16.0,15,Grains/Cereals,1,Filo Mix,3,3,100.0
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Produce,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Produce,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Produce,1,Filo Mix,3,3,100.0
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Meat/Poultry,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Meat/Poultry,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Meat/Poultry,1,Filo Mix,3,3,100.0
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Grains/Cereals,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Grains/Cereals,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Manjimup Dried Apples,163,38.0,15,Grains/Cereals,1,Filo Mix,3,3,100.0
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Produce,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Produce,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Produce,1,Filo Mix,3,3,100.0
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Meat/Poultry,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Meat/Poultry,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Meat/Poultry,1,Filo Mix,3,3,100.0
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Grains/Cereals,1,Perth Pasties,9,10,111.11111111111111
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Grains/Cereals,1,Manjimup Dried Apples,6,6,100.0
+"G'day, Mate",19,17207.8,30.93,3,Filo Mix,48,67.0,15,Grains/Cereals,1,Filo Mix,3,3,100.0
+Gai pâturage,26,33650.0,44.5,2,Camembert Pierrot,430,2.0,21,Dairy Products,2,Camembert Pierrot,11,12,109.0909090909091
+Gai pâturage,26,33650.0,44.5,2,Camembert Pierrot,430,2.0,21,Dairy Products,2,Raclette Courdavault,13,14,107.6923076923077
+Gai pâturage,26,33650.0,44.5,2,Raclette Courdavault,346,4.0,21,Dairy Products,2,Camembert Pierrot,11,12,109.0909090909091
+Gai pâturage,26,33650.0,44.5,2,Raclette Courdavault,346,4.0,21,Dairy Products,2,Raclette Courdavault,13,14,107.6923076923077
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Northwoods Cranberry Sauce,140,46.0,6,Condiments,2,Uncle Bob's Organic Dried Pears,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Northwoods Cranberry Sauce,140,46.0,6,Condiments,2,Northwoods Cranberry Sauce,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Northwoods Cranberry Sauce,140,46.0,6,Condiments,2,Grandma's Boysenberry Spread,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Northwoods Cranberry Sauce,140,46.0,6,Produce,1,Uncle Bob's Organic Dried Pears,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Northwoods Cranberry Sauce,140,46.0,6,Produce,1,Northwoods Cranberry Sauce,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Northwoods Cranberry Sauce,140,46.0,6,Produce,1,Grandma's Boysenberry Spread,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Grandma's Boysenberry Spread,36,70.0,6,Condiments,2,Uncle Bob's Organic Dried Pears,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Grandma's Boysenberry Spread,36,70.0,6,Condiments,2,Northwoods Cranberry Sauce,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Grandma's Boysenberry Spread,36,70.0,6,Condiments,2,Grandma's Boysenberry Spread,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Grandma's Boysenberry Spread,36,70.0,6,Produce,1,Uncle Bob's Organic Dried Pears,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Grandma's Boysenberry Spread,36,70.0,6,Produce,1,Northwoods Cranberry Sauce,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Grandma's Boysenberry Spread,36,70.0,6,Produce,1,Grandma's Boysenberry Spread,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Uncle Bob's Organic Dried Pears,25,72.0,6,Condiments,2,Uncle Bob's Organic Dried Pears,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Uncle Bob's Organic Dried Pears,25,72.0,6,Condiments,2,Northwoods Cranberry Sauce,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Uncle Bob's Organic Dried Pears,25,72.0,6,Condiments,2,Grandma's Boysenberry Spread,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Uncle Bob's Organic Dried Pears,25,72.0,6,Produce,1,Uncle Bob's Organic Dried Pears,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Uncle Bob's Organic Dried Pears,25,72.0,6,Produce,1,Northwoods Cranberry Sauce,2,2,100.0
+Grandma Kelly's Homestead,6,7250.0,31.67,3,Uncle Bob's Organic Dried Pears,25,72.0,6,Produce,1,Grandma's Boysenberry Spread,2,2,100.0
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,Gumbär Gummibärchen,232,19.0,13,Confections,3,Gumbär Gummibärchen,7,8,114.28571428571429
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,Gumbär Gummibärchen,232,19.0,13,Confections,3,Schoggi Schokolade,3,3,100.0
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,Gumbär Gummibärchen,232,19.0,13,Confections,3,NuNuCa Nuß-Nougat-Creme,4,4,100.0
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,Schoggi Schokolade,90,58.0,13,Confections,3,Gumbär Gummibärchen,7,8,114.28571428571429
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,Schoggi Schokolade,90,58.0,13,Confections,3,Schoggi Schokolade,3,3,100.0
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,Schoggi Schokolade,90,58.0,13,Confections,3,NuNuCa Nuß-Nougat-Creme,4,4,100.0
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,NuNuCa Nuß-Nougat-Creme,71,63.0,13,Confections,3,Gumbär Gummibärchen,7,8,114.28571428571429
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,NuNuCa Nuß-Nougat-Creme,71,63.0,13,Confections,3,Schoggi Schokolade,3,3,100.0
+Heli Süßwaren GmbH & Co. KG,15,12190.36,29.71,3,NuNuCa Nuß-Nougat-Creme,71,63.0,13,Confections,3,NuNuCa Nuß-Nougat-Creme,4,4,100.0
+Karkki Oy,19,8301.5,18.08,3,Lakkalikööri,198,22.0,16,Confections,2,Lakkalikööri,9,10,111.11111111111111
+Karkki Oy,19,8301.5,18.08,3,Lakkalikööri,198,22.0,16,Confections,2,Valkoinen suklaa,3,3,100.0
+Karkki Oy,19,8301.5,18.08,3,Lakkalikööri,198,22.0,16,Confections,2,Maxilaku,6,6,100.0
+Karkki Oy,19,8301.5,18.08,3,Lakkalikööri,198,22.0,16,Beverages,1,Lakkalikööri,9,10,111.11111111111111
+Karkki Oy,19,8301.5,18.08,3,Lakkalikööri,198,22.0,16,Beverages,1,Valkoinen suklaa,3,3,100.0
+Karkki Oy,19,8301.5,18.08,3,Lakkalikööri,198,22.0,16,Beverages,1,Maxilaku,6,6,100.0
+Karkki Oy,19,8301.5,18.08,3,Maxilaku,180,29.0,16,Confections,2,Lakkalikööri,9,10,111.11111111111111
+Karkki Oy,19,8301.5,18.08,3,Maxilaku,180,29.0,16,Confections,2,Valkoinen suklaa,3,3,100.0
+Karkki Oy,19,8301.5,18.08,3,Maxilaku,180,29.0,16,Confections,2,Maxilaku,6,6,100.0
+Karkki Oy,19,8301.5,18.08,3,Maxilaku,180,29.0,16,Beverages,1,Lakkalikööri,9,10,111.11111111111111
+Karkki Oy,19,8301.5,18.08,3,Maxilaku,180,29.0,16,Beverages,1,Valkoinen suklaa,3,3,100.0
+Karkki Oy,19,8301.5,18.08,3,Maxilaku,180,29.0,16,Beverages,1,Maxilaku,6,6,100.0
+Karkki Oy,19,8301.5,18.08,3,Valkoinen suklaa,70,64.0,16,Confections,2,Lakkalikööri,9,10,111.11111111111111
+Karkki Oy,19,8301.5,18.08,3,Valkoinen suklaa,70,64.0,16,Confections,2,Valkoinen suklaa,3,3,100.0
+Karkki Oy,19,8301.5,18.08,3,Valkoinen suklaa,70,64.0,16,Confections,2,Maxilaku,6,6,100.0
+Karkki Oy,19,8301.5,18.08,3,Valkoinen suklaa,70,64.0,16,Beverages,1,Lakkalikööri,9,10,111.11111111111111
+Karkki Oy,19,8301.5,18.08,3,Valkoinen suklaa,70,64.0,16,Beverages,1,Valkoinen suklaa,3,3,100.0
+Karkki Oy,19,8301.5,18.08,3,Valkoinen suklaa,70,64.0,16,Beverages,1,Maxilaku,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Grains/Cereals,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Grains/Cereals,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Grains/Cereals,1,Gula Malacca,5,5,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Condiments,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Condiments,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Condiments,1,Gula Malacca,5,5,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Beverages,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Beverages,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Gula Malacca,178,30.0,16,Beverages,1,Gula Malacca,5,5,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Grains/Cereals,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Grains/Cereals,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Grains/Cereals,1,Gula Malacca,5,5,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Condiments,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Condiments,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Condiments,1,Gula Malacca,5,5,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Beverages,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Beverages,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Ipoh Coffee,136,48.0,16,Beverages,1,Gula Malacca,5,5,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Grains/Cereals,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Grains/Cereals,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Grains/Cereals,1,Gula Malacca,5,5,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Condiments,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Condiments,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Condiments,1,Gula Malacca,5,5,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Beverages,1,Singaporean Hokkien Fried Mee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Beverages,1,Ipoh Coffee,6,6,100.0
+Leka Trading,17,10796.1,26.48,3,Singaporean Hokkien Fried Mee,77,62.0,16,Beverages,1,Gula Malacca,5,5,100.0
+Lyngbysild,8,1882.5,10.75,2,Spegesild,145,44.0,8,Seafood,2,Spegesild,7,7,100.0
+Lyngbysild,8,1882.5,10.75,2,Spegesild,145,44.0,8,Seafood,2,Røgede sild,1,1,100.0
+Lyngbysild,8,1882.5,10.75,2,Røgede sild,15,76.0,8,Seafood,2,Spegesild,7,7,100.0
+Lyngbysild,8,1882.5,10.75,2,Røgede sild,15,76.0,8,Seafood,2,Røgede sild,1,1,100.0
+Ma Maison,19,7798.0,15.72,2,Tourtière,280,11.0,17,Meat/Poultry,2,Tourtière,10,12,120.0
+Ma Maison,19,7798.0,15.72,2,Tourtière,280,11.0,17,Meat/Poultry,2,Pâté chinois,7,7,100.0
+Ma Maison,19,7798.0,15.72,2,Pâté chinois,238,18.0,17,Meat/Poultry,2,Tourtière,10,12,120.0
+Ma Maison,19,7798.0,15.72,2,Pâté chinois,238,18.0,17,Meat/Poultry,2,Pâté chinois,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Seafood,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Seafood,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Seafood,1,Genen Shouyu,2,2,100.0
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Produce,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Produce,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Produce,1,Genen Shouyu,2,2,100.0
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Condiments,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Condiments,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Tofu,152,42.0,13,Condiments,1,Genen Shouyu,2,2,100.0
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Seafood,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Seafood,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Seafood,1,Genen Shouyu,2,2,100.0
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Produce,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Produce,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Produce,1,Genen Shouyu,2,2,100.0
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Condiments,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Condiments,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Konbu,92,57.0,13,Condiments,1,Genen Shouyu,2,2,100.0
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Seafood,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Seafood,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Seafood,1,Genen Shouyu,2,2,100.0
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Produce,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Produce,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Produce,1,Genen Shouyu,2,2,100.0
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Condiments,1,Tofu,7,8,114.28571428571429
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Condiments,1,Konbu,7,7,100.0
+Mayumi's,17,4473.5,14.92,3,Genen Shouyu,25,72.0,13,Condiments,1,Genen Shouyu,2,2,100.0
+New England Seafood Cannery,17,6051.75,14.02,2,Boston Crab Meat,256,15.0,15,Seafood,2,Boston Crab Meat,7,8,114.28571428571429
+New England Seafood Cannery,17,6051.75,14.02,2,Boston Crab Meat,256,15.0,15,Seafood,2,Jack's New England Clam Chowder,9,9,100.0
+New England Seafood Cannery,17,6051.75,14.02,2,Jack's New England Clam Chowder,139,47.0,15,Seafood,2,Boston Crab Meat,7,8,114.28571428571429
+New England Seafood Cannery,17,6051.75,14.02,2,Jack's New England Clam Chowder,139,47.0,15,Seafood,2,Jack's New England Clam Chowder,9,9,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Louisiana Fiery Hot Pepper Sauce,175,31.0,16,Condiments,4,Chef Anton's Gumbo Mix,3,4,133.33333333333334
+New Orleans Cajun Delights,20,10321.9,20.35,4,Louisiana Fiery Hot Pepper Sauce,175,31.0,16,Condiments,4,Louisiana Hot Spiced Okra,2,2,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Louisiana Fiery Hot Pepper Sauce,175,31.0,16,Condiments,4,Louisiana Fiery Hot Pepper Sauce,9,9,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Louisiana Fiery Hot Pepper Sauce,175,31.0,16,Condiments,4,Chef Anton's Cajun Seasoning,5,5,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Chef Anton's Gumbo Mix,129,49.0,16,Condiments,4,Chef Anton's Gumbo Mix,3,4,133.33333333333334
+New Orleans Cajun Delights,20,10321.9,20.35,4,Chef Anton's Gumbo Mix,129,49.0,16,Condiments,4,Louisiana Hot Spiced Okra,2,2,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Chef Anton's Gumbo Mix,129,49.0,16,Condiments,4,Louisiana Fiery Hot Pepper Sauce,9,9,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Chef Anton's Gumbo Mix,129,49.0,16,Condiments,4,Chef Anton's Cajun Seasoning,5,5,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Chef Anton's Cajun Seasoning,107,52.0,16,Condiments,4,Chef Anton's Gumbo Mix,3,4,133.33333333333334
+New Orleans Cajun Delights,20,10321.9,20.35,4,Chef Anton's Cajun Seasoning,107,52.0,16,Condiments,4,Louisiana Hot Spiced Okra,2,2,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Chef Anton's Cajun Seasoning,107,52.0,16,Condiments,4,Louisiana Fiery Hot Pepper Sauce,9,9,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Chef Anton's Cajun Seasoning,107,52.0,16,Condiments,4,Chef Anton's Cajun Seasoning,5,5,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Louisiana Hot Spiced Okra,90,58.0,16,Condiments,4,Chef Anton's Gumbo Mix,3,4,133.33333333333334
+New Orleans Cajun Delights,20,10321.9,20.35,4,Louisiana Hot Spiced Okra,90,58.0,16,Condiments,4,Louisiana Hot Spiced Okra,2,2,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Louisiana Hot Spiced Okra,90,58.0,16,Condiments,4,Louisiana Fiery Hot Pepper Sauce,9,9,100.0
+New Orleans Cajun Delights,20,10321.9,20.35,4,Louisiana Hot Spiced Okra,90,58.0,16,Condiments,4,Chef Anton's Cajun Seasoning,5,5,100.0
+Nord-Ost-Fisch Handelsgesellschaft mbH,8,4401.3,25.89,1,Nord-Ost Matjeshering,170,32.0,7,Seafood,1,Nord-Ost Matjeshering,7,8,114.28571428571429
+Norske Meierier,32,14638.0,20.0,3,Fløtemysost,336,7.0,28,Dairy Products,3,Fløtemysost,11,13,118.18181818181819
+Norske Meierier,32,14638.0,20.0,3,Fløtemysost,336,7.0,28,Dairy Products,3,Gudbrandsdalsost,10,10,100.0
+Norske Meierier,32,14638.0,20.0,3,Fløtemysost,336,7.0,28,Dairy Products,3,Geitost,9,9,100.0
+Norske Meierier,32,14638.0,20.0,3,Geitost,316,10.0,28,Dairy Products,3,Fløtemysost,11,13,118.18181818181819
+Norske Meierier,32,14638.0,20.0,3,Geitost,316,10.0,28,Dairy Products,3,Gudbrandsdalsost,10,10,100.0
+Norske Meierier,32,14638.0,20.0,3,Geitost,316,10.0,28,Dairy Products,3,Geitost,9,9,100.0
+Norske Meierier,32,14638.0,20.0,3,Gudbrandsdalsost,184,26.0,28,Dairy Products,3,Fløtemysost,11,13,118.18181818181819
+Norske Meierier,32,14638.0,20.0,3,Gudbrandsdalsost,184,26.0,28,Dairy Products,3,Gudbrandsdalsost,10,10,100.0
+Norske Meierier,32,14638.0,20.0,3,Gudbrandsdalsost,184,26.0,28,Dairy Products,3,Geitost,9,9,100.0
+PB Knäckebröd AB,6,1863.0,15.0,2,Tunnbröd,165,36.0,5,Grains/Cereals,2,Tunnbröd,3,4,133.33333333333334
+PB Knäckebröd AB,6,1863.0,15.0,2,Tunnbröd,165,36.0,5,Grains/Cereals,2,Gustaf's Knäckebröd,2,2,100.0
+PB Knäckebröd AB,6,1863.0,15.0,2,Gustaf's Knäckebröd,18,75.0,5,Grains/Cereals,2,Tunnbröd,3,4,133.33333333333334
+PB Knäckebröd AB,6,1863.0,15.0,2,Gustaf's Knäckebröd,18,75.0,5,Grains/Cereals,2,Gustaf's Knäckebröd,2,2,100.0
+Pasta Buttini s.r.l.,20,13498.0,28.75,2,Gnocchi di nonna Alice,269,13.0,15,Grains/Cereals,2,Gnocchi di nonna Alice,9,12,133.33333333333334
+Pasta Buttini s.r.l.,20,13498.0,28.75,2,Gnocchi di nonna Alice,269,13.0,15,Grains/Cereals,2,Ravioli Angelo,8,8,100.0
+Pasta Buttini s.r.l.,20,13498.0,28.75,2,Ravioli Angelo,168,33.0,15,Grains/Cereals,2,Gnocchi di nonna Alice,9,12,133.33333333333334
+Pasta Buttini s.r.l.,20,13498.0,28.75,2,Ravioli Angelo,168,33.0,15,Grains/Cereals,2,Ravioli Angelo,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Seafood,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Seafood,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Seafood,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Seafood,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Seafood,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Meat/Poultry,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Meat/Poultry,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Meat/Poultry,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Meat/Poultry,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Meat/Poultry,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Confections,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Confections,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Confections,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Confections,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Confections,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Condiments,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Condiments,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Condiments,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Condiments,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Condiments,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Beverages,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Beverages,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Beverages,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Beverages,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Pavlova,338,6.0,23,Beverages,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Seafood,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Seafood,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Seafood,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Seafood,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Seafood,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Meat/Poultry,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Meat/Poultry,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Meat/Poultry,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Meat/Poultry,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Meat/Poultry,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Confections,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Confections,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Confections,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Confections,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Confections,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Condiments,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Condiments,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Condiments,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Condiments,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Condiments,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Beverages,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Beverages,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Beverages,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Beverages,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Alice Mutton,331,8.0,23,Beverages,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Seafood,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Seafood,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Seafood,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Seafood,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Seafood,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Meat/Poultry,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Meat/Poultry,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Meat/Poultry,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Meat/Poultry,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Meat/Poultry,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Confections,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Confections,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Confections,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Confections,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Confections,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Condiments,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Condiments,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Condiments,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Condiments,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Condiments,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Beverages,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Beverages,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Beverages,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Beverages,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Vegie-spread,209,20.0,23,Beverages,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Seafood,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Seafood,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Seafood,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Seafood,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Seafood,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Meat/Poultry,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Meat/Poultry,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Meat/Poultry,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Meat/Poultry,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Meat/Poultry,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Confections,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Confections,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Confections,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Confections,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Confections,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Condiments,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Condiments,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Condiments,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Condiments,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Condiments,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Beverages,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Beverages,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Beverages,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Beverages,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Outback Lager,164,37.0,23,Beverages,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Seafood,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Seafood,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Seafood,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Seafood,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Seafood,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Meat/Poultry,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Meat/Poultry,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Meat/Poultry,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Meat/Poultry,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Meat/Poultry,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Confections,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Confections,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Confections,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Confections,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Confections,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Condiments,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Condiments,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Condiments,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Condiments,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Condiments,1,Carnarvon Tigers,5,5,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Beverages,1,Pavlova,8,10,125.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Beverages,1,Alice Mutton,10,11,110.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Beverages,1,Vegie-spread,6,6,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Beverages,1,Outback Lager,8,8,100.0
+"Pavlova, Ltd.",40,37067.2,35.57,5,Carnarvon Tigers,106,53.0,23,Beverages,1,Carnarvon Tigers,5,5,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Produce,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Produce,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Produce,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Produce,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Produce,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Meat/Poultry,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Meat/Poultry,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Meat/Poultry,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Meat/Poultry,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Meat/Poultry,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Grains/Cereals,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Grains/Cereals,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Grains/Cereals,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Grains/Cereals,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Grains/Cereals,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Condiments,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Condiments,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Condiments,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Condiments,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Condiments,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Beverages,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Beverages,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Beverages,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Beverages,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rössle Sauerkraut,189,24.0,32,Beverages,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Produce,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Produce,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Produce,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Produce,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Produce,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Meat/Poultry,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Meat/Poultry,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Meat/Poultry,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Meat/Poultry,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Meat/Poultry,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Grains/Cereals,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Grains/Cereals,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Grains/Cereals,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Grains/Cereals,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Grains/Cereals,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Condiments,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Condiments,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Condiments,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Condiments,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Condiments,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Beverages,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Beverages,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Beverages,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Beverages,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Thüringer Rostbratwurst,168,33.0,32,Beverages,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Produce,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Produce,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Produce,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Produce,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Produce,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Meat/Poultry,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Meat/Poultry,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Meat/Poultry,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Meat/Poultry,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Meat/Poultry,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Grains/Cereals,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Grains/Cereals,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Grains/Cereals,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Grains/Cereals,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Grains/Cereals,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Condiments,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Condiments,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Condiments,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Condiments,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Condiments,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Beverages,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Beverages,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Beverages,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Beverages,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Wimmers gute Semmelknödel,167,35.0,32,Beverages,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Produce,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Produce,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Produce,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Produce,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Produce,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Meat/Poultry,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Meat/Poultry,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Meat/Poultry,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Meat/Poultry,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Meat/Poultry,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Grains/Cereals,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Grains/Cereals,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Grains/Cereals,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Grains/Cereals,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Grains/Cereals,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Condiments,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Condiments,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Condiments,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Condiments,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Condiments,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Beverages,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Beverages,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Beverages,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Beverages,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Rhönbräu Klosterbier,144,45.0,32,Beverages,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Produce,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Produce,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Produce,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Produce,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Produce,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Meat/Poultry,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Meat/Poultry,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Meat/Poultry,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Meat/Poultry,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Meat/Poultry,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Grains/Cereals,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Grains/Cereals,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Grains/Cereals,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Grains/Cereals,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Grains/Cereals,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Condiments,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Condiments,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Condiments,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Condiments,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Condiments,1,Rhönbräu Klosterbier,8,8,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Beverages,1,Original Frankfurter grüne Soße,7,8,114.28571428571429
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Beverages,1,Wimmers gute Semmelknödel,7,7,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Beverages,1,Thüringer Rostbratwurst,9,9,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Beverages,1,Rössle Sauerkraut,10,10,100.0
+Plutzer Lebensmittelgroßmärkte AG,42,37487.87,44.68,5,Original Frankfurter grüne Soße,108,51.0,32,Beverages,1,Rhönbräu Klosterbier,8,8,100.0
+Refrescos Americanas LTDA,11,711.0,4.5,1,Guaraná Fantástica,158,40.0,11,Beverages,1,Guaraná Fantástica,11,11,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Scottish Longbreads,199,21.0,28,Confections,4,Sir Rodney's Scones,7,8,114.28571428571429
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Scottish Longbreads,199,21.0,28,Confections,4,Teatime Chocolate Biscuits,9,9,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Scottish Longbreads,199,21.0,28,Confections,4,Sir Rodney's Marmalade,5,5,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Scottish Longbreads,199,21.0,28,Confections,4,Scottish Longbreads,11,11,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Teatime Chocolate Biscuits,181,28.0,28,Confections,4,Sir Rodney's Scones,7,8,114.28571428571429
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Teatime Chocolate Biscuits,181,28.0,28,Confections,4,Teatime Chocolate Biscuits,9,9,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Teatime Chocolate Biscuits,181,28.0,28,Confections,4,Sir Rodney's Marmalade,5,5,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Teatime Chocolate Biscuits,181,28.0,28,Confections,4,Scottish Longbreads,11,11,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Sir Rodney's Scones,147,43.0,28,Confections,4,Sir Rodney's Scones,7,8,114.28571428571429
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Sir Rodney's Scones,147,43.0,28,Confections,4,Teatime Chocolate Biscuits,9,9,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Sir Rodney's Scones,147,43.0,28,Confections,4,Sir Rodney's Marmalade,5,5,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Sir Rodney's Scones,147,43.0,28,Confections,4,Scottish Longbreads,11,11,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Sir Rodney's Marmalade,106,53.0,28,Confections,4,Sir Rodney's Scones,7,8,114.28571428571429
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Sir Rodney's Marmalade,106,53.0,28,Confections,4,Teatime Chocolate Biscuits,9,9,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Sir Rodney's Marmalade,106,53.0,28,Confections,4,Sir Rodney's Marmalade,5,5,100.0
+"Specialty Biscuits, Ltd.",33,14208.7,28.18,4,Sir Rodney's Marmalade,106,53.0,28,Confections,4,Scottish Longbreads,11,11,100.0
+Svensk Sjöföda AB,14,5451.0,20.0,3,Inlagd Sill,198,22.0,11,Seafood,3,Inlagd Sill,7,9,128.57142857142858
+Svensk Sjöföda AB,14,5451.0,20.0,3,Inlagd Sill,198,22.0,11,Seafood,3,Röd Kaviar,2,2,100.0
+Svensk Sjöföda AB,14,5451.0,20.0,3,Inlagd Sill,198,22.0,11,Seafood,3,Gravad lax,3,3,100.0
+Svensk Sjöföda AB,14,5451.0,20.0,3,Röd Kaviar,45,68.0,11,Seafood,3,Inlagd Sill,7,9,128.57142857142858
+Svensk Sjöföda AB,14,5451.0,20.0,3,Röd Kaviar,45,68.0,11,Seafood,3,Röd Kaviar,2,2,100.0
+Svensk Sjöföda AB,14,5451.0,20.0,3,Röd Kaviar,45,68.0,11,Seafood,3,Gravad lax,3,3,100.0
+Svensk Sjöföda AB,14,5451.0,20.0,3,Gravad lax,39,69.0,11,Seafood,3,Inlagd Sill,7,9,128.57142857142858
+Svensk Sjöföda AB,14,5451.0,20.0,3,Gravad lax,39,69.0,11,Seafood,3,Röd Kaviar,2,2,100.0
+Svensk Sjöföda AB,14,5451.0,20.0,3,Gravad lax,39,69.0,11,Seafood,3,Gravad lax,3,3,100.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Seafood,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Seafood,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Seafood,1,Ikura,4,4,100.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Produce,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Produce,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Produce,1,Ikura,4,4,100.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Meat/Poultry,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Meat/Poultry,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Longlife Tofu,186,25.0,8,Meat/Poultry,1,Ikura,4,4,100.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Seafood,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Seafood,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Seafood,1,Ikura,4,4,100.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Produce,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Produce,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Produce,1,Ikura,4,4,100.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Meat/Poultry,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Meat/Poultry,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Ikura,85,60.0,8,Meat/Poultry,1,Ikura,4,4,100.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Seafood,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Seafood,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Seafood,1,Ikura,4,4,100.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Produce,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Produce,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Produce,1,Ikura,4,4,100.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Meat/Poultry,1,Longlife Tofu,5,7,140.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Meat/Poultry,1,Mishi Kobe Niku,1,1,100.0
+Tokyo Traders,12,6435.0,46.0,3,Mishi Kobe Niku,20,74.0,8,Meat/Poultry,1,Ikura,4,4,100.0
+Zaanse Snoepfabriek,4,1852.0,11.13,2,Zaanse koeken,101,56.0,4,Confections,2,Zaanse koeken,3,3,100.0
+Zaanse Snoepfabriek,4,1852.0,11.13,2,Zaanse koeken,101,56.0,4,Confections,2,Chocolade,1,1,100.0
+Zaanse Snoepfabriek,4,1852.0,11.13,2,Chocolade,70,64.0,4,Confections,2,Zaanse koeken,3,3,100.0
+Zaanse Snoepfabriek,4,1852.0,11.13,2,Chocolade,70,64.0,4,Confections,2,Chocolade,1,1,100.0
